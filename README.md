@@ -7,4 +7,4 @@ I've studied C# and Python, as well as SQL. I don't particularly like writing VB
 
 Off work, I like hiking and camping. 
 
-Here's a 2025 edit to this file 
+Here's a 2025 edit to this file.
