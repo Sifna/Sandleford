@@ -13,4 +13,4 @@ Here's a 2025 edit to this file. And now here's another edit from August. Had to
 
 Status shows that stuff has been changed. Not committed yet. At this point can undo all the changes by running a restore. Not sure if there is a way to get the changes back. 
 
-Stage changes by committing? 
+Stage changes: first add, then commit. Can I commit again without adding again? 
